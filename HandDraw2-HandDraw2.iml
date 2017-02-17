@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.path="F:\android studio workspace\HandDraw2\build.gradle" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/HandDraw2">
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/aidl/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/res/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/r/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/debug/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/buildConfig/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/r/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/src/instrumentTest/res" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/source/aidl/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/HandDraw2/build/res/rs/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/apk" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/exploded-bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/HandDraw2/build/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="android-support-v4" level="project" />
+  </component>
+</module>
+
